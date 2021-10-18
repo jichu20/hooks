@@ -1,4 +1,4 @@
-- id: google-java-formatter-jdk11
+- id: eclipse
   name: Google Java Formatter
   description: "Runs the Google Java Formatter on Java source files. Minimum supported runtime version is JDK 11."
   language: coursier
