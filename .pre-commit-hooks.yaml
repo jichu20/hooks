@@ -1,11 +1,4 @@
 ---
-- id: google-java-formatter-jdk11
-  name: Google Java Formatter
-  description: "Runs the Google Java Formatter on Java source files. Minimum supported runtime version is JDK 11."
-  language: coursier
-  entry: google-java-format-jdk11
-  files: \.java$
-  require_serial: true
 - id: seiri-format
   name: Google Java Formatter
   description: "Runs the Google Java Formatter on Java source files. Minimum supported runtime version is JDK 11."
